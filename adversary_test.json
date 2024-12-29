@@ -1,0 +1,502 @@
+[
+    {
+        "premise": "A man with gray hair and a gray beard laughs joyfully while wearing a purple shirt, surrounded by friends.",
+        "hypothesis": "A man is crying loudly in a dimly lit, empty room.",
+        "label": 2
+    },
+    {
+        "premise": "A man with gray hair and a gray beard laughs joyfully while wearing a purple shirt, surrounded by friends.",
+        "hypothesis": "A man is dressed in a red shirt, appearing much younger with no beard.",
+        "label": 2
+    },
+    {
+        "premise": "A girl wearing a pink sundress rides a bike along a quiet road bordered by a white picket fence and blooming flowers.",
+        "hypothesis": "A girl wearing a yellow sundress is running joyfully along a muddy path in the woods.",
+        "label": 2
+    },
+    {
+        "premise": "A girl wearing a pink sundress rides a bike along a quiet road bordered by a white picket fence and blooming flowers.",
+        "hypothesis": "A boy rides his bicycle through a bustling city park filled with families.",
+        "label": 2
+    },
+    {
+        "premise": "A man sits cross-legged in a room adorned with Asian-style decorations and intricate patterns on the walls.",
+        "hypothesis": "A man is standing in a European-style café, sipping coffee while reading a book.",
+        "label": 2
+    },
+    {
+        "premise": "A man sits cross-legged in a room adorned with Asian-style decorations and intricate patterns on the walls.",
+        "hypothesis": "A man sits quietly, meditating on the polished wooden floor of the same room.",
+        "label": 1
+    },
+    {
+        "premise": "A male nun, dressed in traditional robes, smokes a cigarette while sitting under a large tree.",
+        "hypothesis": "The male nun uses a mobile phone to check messages while walking in the garden.",
+        "label": 1
+    },
+    {
+        "premise": "A male nun, dressed in traditional robes, smokes a cigarette while sitting under a large tree.",
+        "hypothesis": "A nun performs a complex piano concerto on stage during a large concert.",
+        "label": 2
+    },
+    {
+        "premise": "A little girl with brown hair is perched high up in the branches of a tall tree, smiling at the view.",
+        "hypothesis": "The girl carefully assembles pieces of wood to build a small treehouse with her friends.",
+        "label": 1
+    },
+    {
+        "premise": "A little girl with brown hair is perched high up in the branches of a tall tree, smiling at the view.",
+        "hypothesis": "A boy runs joyfully through a nearby field, flying a bright red kite.",
+        "label": 2
+    },
+    {
+        "premise": "A man stands next to an overflowing garbage bin on the side of a busy street.",
+        "hypothesis": "The man kneels on the ground, picking up garbage that has spilled from the bin.",
+        "label": 1
+    },
+    {
+        "premise": "A man stands next to an overflowing garbage bin on the side of a busy street.",
+        "hypothesis": "A man strolls through a pristine park with no trash in sight, enjoying the fresh air.",
+        "label": 2
+    },
+    {
+        "premise": "A group of school kids wearing identical blue backpacks walks in a straight line through the schoolyard.",
+        "hypothesis": "Students in green uniforms carry their books into a large classroom for their next lesson.",
+        "label": 2
+    },
+    {
+        "premise": "A group of school kids wearing identical blue backpacks walks in a straight line through the schoolyard.",
+        "hypothesis": "The children organize their textbooks in neat stacks in the school library.",
+        "label": 1
+    },
+    {
+        "premise": "Performers dressed in vibrant fuchsia, red, yellow, and black costumes sing and dance enthusiastically on a city street.",
+        "hypothesis": "A group of violinists in somber blue and white outfits plays quietly in a nearby park.",
+        "label": 2
+    },
+    {
+        "premise": "Performers dressed in vibrant fuchsia, red, yellow, and black costumes sing and dance enthusiastically on a city street.",
+        "hypothesis": "The performers delight a large crowd by combining their musical talent with lively dance routines.",
+        "label": 0
+    },
+    {
+        "premise": "A group of people walks leisurely down a sidewalk parallel to a beach lined with palm trees.",
+        "hypothesis": "The group sits cross-legged on the sand, gazing peacefully at the ocean waves.",
+        "label": 1
+    },
+    {
+        "premise": "A group of people walks leisurely down a sidewalk parallel to a beach lined with palm trees.",
+        "hypothesis": "The beach is completely empty except for a flock of seagulls resting on the sand.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a suit stands by a chessboard, having just finished his turn in a match in a crowded park.",
+        "hypothesis": "A corporate executive concludes an intense meeting in a high-rise office building.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a suit stands by a chessboard, having just finished his turn in a match in a crowded park.",
+        "hypothesis": "The man leans in, considering his next strategic move in the chess game.",
+        "label": 1
+    },
+    {
+        "premise": "A dog walks cautiously through fresh snow, leaving small paw prints behind.",
+        "hypothesis": "The dog sleeps soundly by the warm glow of a fireplace inside a cozy home.",
+        "label": 2
+    },
+    {
+        "premise": "A dog walks cautiously through fresh snow, leaving small paw prints behind.",
+        "hypothesis": "The dog sniffs the snow eagerly, searching for something hidden beneath the surface.",
+        "label": 1
+    },
+    {
+        "premise": "Two men carry a canoe through dense woods, carefully maneuvering around low-hanging branches.",
+        "hypothesis": "The men navigate their canoe across a rushing river, fishing for trout in the clear waters.",
+        "label": 1
+    },
+    {
+        "premise": "Two men carry a canoe through dense woods, carefully maneuvering around low-hanging branches.",
+        "hypothesis": "The men trek through an arid desert carrying camping supplies and looking for shade.",
+        "label": 2
+    },
+    {
+        "premise": "An elderly man rummages through a waste bin in a crowded city alley.",
+        "hypothesis": "The man carefully separates recyclable items from the trash, placing them in a separate container.",
+        "label": 1
+    },
+      {
+        "premise": "A man in a black suit stands confidently on stage, holding a microphone in front of an applauding audience.",
+        "hypothesis": "The man is performing a comedy routine at a nightclub.",
+        "label": 1
+    },
+    {
+        "premise": "A man in a black suit stands confidently on stage, holding a microphone in front of an applauding audience.",
+        "hypothesis": "The man is jogging alone on a quiet forest trail.",
+        "label": 2
+    },
+    {
+        "premise": "A group of children in Halloween costumes knock on a brightly lit door in a suburban neighborhood.",
+        "hypothesis": "The children are collecting candy from neighbors during a festival.",
+        "label": 0
+    },
+    {
+        "premise": "A group of children in Halloween costumes knock on a brightly lit door in a suburban neighborhood.",
+        "hypothesis": "The children are playing soccer in a large park.",
+        "label": 2
+    },
+    {
+        "premise": "A woman with long hair wearing a green sweater waters plants in her living room using a small watering can.",
+        "hypothesis": "A woman is repainting the walls of her house with a vibrant color.",
+        "label": 2
+    },
+    {
+        "premise": "A woman with long hair wearing a green sweater waters plants in her living room using a small watering can.",
+        "hypothesis": "The woman is taking care of her indoor plants.",
+        "label": 0
+    },
+    {
+        "premise": "A dog runs through a field of tall grass chasing a frisbee thrown by its owner.",
+        "hypothesis": "The dog is sitting quietly next to its owner on the porch.",
+        "label": 2
+    },
+    {
+        "premise": "A dog runs through a field of tall grass chasing a frisbee thrown by its owner.",
+        "hypothesis": "The dog enthusiastically leaps to catch the frisbee mid-air.",
+        "label": 0
+    },
+    {
+        "premise": "A chef prepares a gourmet meal in a bustling kitchen while a waiter sets the tables in the dining area.",
+        "hypothesis": "The chef is painting a mural on the wall of a quiet art gallery.",
+        "label": 2
+    },
+    {
+        "premise": "A chef prepares a gourmet meal in a bustling kitchen while a waiter sets the tables in the dining area.",
+        "hypothesis": "The chef is cooking an exquisite dish for a group of diners.",
+        "label": 0
+    },
+    {
+        "premise": "A small boy in a red shirt is flying a kite on the beach, with waves crashing in the background.",
+        "hypothesis": "The boy is building a sandcastle near the water's edge.",
+        "label": 1
+    },
+    {
+        "premise": "A small boy in a red shirt is flying a kite on the beach, with waves crashing in the background.",
+        "hypothesis": "The boy is running through a dense forest with a group of friends.",
+        "label": 2
+    },
+    {
+        "premise": "A group of hikers with backpacks walks along a winding mountain trail surrounded by lush greenery.",
+        "hypothesis": "The hikers are rafting down a turbulent river.",
+        "label": 2
+    },
+    {
+        "premise": "A group of hikers with backpacks walks along a winding mountain trail surrounded by lush greenery.",
+        "hypothesis": "The hikers navigate a steep trail while enjoying the picturesque views.",
+        "label": 0
+    },
+    {
+        "premise": "An artist in a studio mixes vibrant colors on a palette while working on a large canvas.",
+        "hypothesis": "The artist is performing a classical piano piece in front of an audience.",
+        "label": 2
+    },
+    {
+        "premise": "An artist in a studio mixes vibrant colors on a palette while working on a large canvas.",
+        "hypothesis": "The artist is creating a vivid landscape painting.",
+        "label": 0
+    },
+    {
+        "premise": "A group of musicians performs in a lively street festival, playing upbeat tunes to a crowd.",
+        "hypothesis": "The musicians are rehearsing quietly in an empty concert hall.",
+        "label": 2
+    },
+    {
+        "premise": "A group of musicians performs in a lively street festival, playing upbeat tunes to a crowd.",
+        "hypothesis": "The musicians are entertaining the festival attendees with their lively performance.",
+        "label": 0
+    },
+    {
+        "premise": "A man in a business suit speaks at a podium during a large conference, addressing the audience.",
+        "hypothesis": "The man is giving a speech at a corporate meeting.",
+        "label": 0
+    },
+    {
+        "premise": "A man in a business suit speaks at a podium during a large conference, addressing the audience.",
+        "hypothesis": "The man is relaxing on a beach with no conference in sight.",
+        "label": 2
+    },
+    {
+        "premise": "A young girl practices the violin in a sunlit room, her sheet music spread on a stand in front of her.",
+        "hypothesis": "The girl is cooking dinner in the kitchen.",
+        "label": 2
+    },
+    {
+        "premise": "A young girl practices the violin in a sunlit room, her sheet music spread on a stand in front of her.",
+        "hypothesis": "The girl is playing a melodic tune on her violin.",
+        "label": 0
+    },
+    {
+        "premise": "A couple enjoys a quiet dinner at a candlelit restaurant, their glasses of wine glowing in the soft light.",
+        "hypothesis": "The couple is attending a rock concert at a large stadium.",
+        "label": 2
+    },
+    {
+        "premise": "A couple enjoys a quiet dinner at a candlelit restaurant, their glasses of wine glowing in the soft light.",
+        "hypothesis": "The couple is savoring a delicious meal in a romantic setting.",
+        "label": 0
+    },
+    {
+        "premise": "A man is repairing a vintage car in a garage filled with tools and spare parts.",
+        "hypothesis": "The man is hiking up a snow-covered mountain with a group of climbers.",
+        "label": 2
+    },
+      {
+        "premise": "A woman in a yellow raincoat stands under an umbrella while it pours rain in the middle of a bustling city street.",
+        "hypothesis": "The woman is sunbathing on a quiet beach.",
+        "label": 2
+    },
+    {
+        "premise": "A woman in a yellow raincoat stands under an umbrella while it pours rain in the middle of a bustling city street.",
+        "hypothesis": "The woman is staying dry during the rainstorm.",
+        "label": 0
+    },
+    {
+        "premise": "A chef carefully places a garnish on a plated dish in a high-end restaurant kitchen.",
+        "hypothesis": "The chef is assembling a model airplane.",
+        "label": 2
+    },
+    {
+        "premise": "A chef carefully places a garnish on a plated dish in a high-end restaurant kitchen.",
+        "hypothesis": "The chef is preparing a gourmet meal.",
+        "label": 0
+    },
+    {
+        "premise": "A boy sits on a wooden dock, dangling his feet into the clear lake water, holding a fishing rod.",
+        "hypothesis": "The boy is playing video games in his room.",
+        "label": 2
+    },
+    {
+        "premise": "A boy sits on a wooden dock, dangling his feet into the clear lake water, holding a fishing rod.",
+        "hypothesis": "The boy is fishing on a serene lake.",
+        "label": 0
+    },
+    {
+        "premise": "A group of people wearing hiking gear navigate a rocky path surrounded by towering pine trees.",
+        "hypothesis": "The group is scuba diving in a coral reef.",
+        "label": 2
+    },
+    {
+        "premise": "A group of people wearing hiking gear navigate a rocky path surrounded by towering pine trees.",
+        "hypothesis": "The hikers are enjoying a challenging trail in the forest.",
+        "label": 0
+    },
+    {
+        "premise": "A man rides a horse through a wide-open field at sunset, the sky painted in shades of orange and pink.",
+        "hypothesis": "The man is driving a car on a busy highway.",
+        "label": 2
+    },
+    {
+        "premise": "A man rides a horse through a wide-open field at sunset, the sky painted in shades of orange and pink.",
+        "hypothesis": "The man is enjoying an evening ride through the countryside.",
+        "label": 0
+    },
+    {
+        "premise": "A young girl in a tutu practices ballet moves in front of a large mirror in a dance studio.",
+        "hypothesis": "The girl is rehearsing for her ballet recital.",
+        "label": 0
+    },
+    {
+        "premise": "A young girl in a tutu practices ballet moves in front of a large mirror in a dance studio.",
+        "hypothesis": "The girl is snowboarding down a steep slope.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a hard hat and reflective vest directs traffic at a busy construction site.",
+        "hypothesis": "The man is performing a violin solo on a concert stage.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a hard hat and reflective vest directs traffic at a busy construction site.",
+        "hypothesis": "The man is ensuring the safe flow of traffic around the site.",
+        "label": 0
+    },
+    {
+        "premise": "A dog splashes through a shallow stream in the woods, chasing a thrown stick.",
+        "hypothesis": "The dog is lying down by a fireplace indoors.",
+        "label": 2
+    },
+    {
+        "premise": "A dog splashes through a shallow stream in the woods, chasing a thrown stick.",
+        "hypothesis": "The dog is enjoying playing in the water.",
+        "label": 0
+    },
+    {
+        "premise": "A man in a tuxedo takes a bow on a theater stage as the audience claps.",
+        "hypothesis": "The man is cooking in his kitchen at home.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a tuxedo takes a bow on a theater stage as the audience claps.",
+        "hypothesis": "The man is acknowledging applause after his performance.",
+        "label": 0
+    },
+    {
+        "premise": "A young boy sits at a desk in a classroom, writing in his notebook with a focused expression.",
+        "hypothesis": "The boy is playing soccer on the school field.",
+        "label": 2
+    },
+    {
+        "premise": "A young boy sits at a desk in a classroom, writing in his notebook with a focused expression.",
+        "hypothesis": "The boy is studying in his class.",
+        "label": 0
+    },
+    {
+        "premise": "A woman paints a landscape on a large canvas set up on an easel in a meadow.",
+        "hypothesis": "The woman is knitting a scarf indoors.",
+        "label": 2
+    },
+    {
+        "premise": "A woman paints a landscape on a large canvas set up on an easel in a meadow.",
+        "hypothesis": "The woman is creating an artwork inspired by the natural scenery.",
+        "label": 0
+    },
+    {
+        "premise": "A man practices his golf swing at a driving range with a row of other golfers.",
+        "hypothesis": "The man is shopping for groceries at a store.",
+        "label": 2
+    },
+    {
+        "premise": "A man practices his golf swing at a driving range with a row of other golfers.",
+        "hypothesis": "The man is working on his golfing technique.",
+        "label": 0
+    },
+      {
+        "premise": "A woman wearing a sunhat sits on a picnic blanket in a park surrounded by blooming flowers.",
+        "hypothesis": "The woman is hiking up a snowy mountain.",
+        "label": 2
+    },
+    {
+        "premise": "A woman wearing a sunhat sits on a picnic blanket in a park surrounded by blooming flowers.",
+        "hypothesis": "The woman is enjoying a relaxing afternoon outdoors.",
+        "label": 0
+    },
+    {
+        "premise": "A group of firefighters sprays water onto a burning building while smoke billows into the sky.",
+        "hypothesis": "The firefighters are roasting marshmallows around a campfire.",
+        "label": 2
+    },
+    {
+        "premise": "A group of firefighters sprays water onto a burning building while smoke billows into the sky.",
+        "hypothesis": "The firefighters are working together to control the blaze.",
+        "label": 0
+    },
+    {
+        "premise": "A child is flying a brightly colored kite on a windy day in an open field.",
+        "hypothesis": "The child is playing video games indoors.",
+        "label": 2
+    },
+    {
+        "premise": "A child is flying a brightly colored kite on a windy day in an open field.",
+        "hypothesis": "The child is enjoying a sunny day outdoors.",
+        "label": 0
+    },
+    {
+        "premise": "A man in a wetsuit paddles a surfboard into the waves at a beach.",
+        "hypothesis": "The man is climbing a tree in a dense forest.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a wetsuit paddles a surfboard into the waves at a beach.",
+        "hypothesis": "The man is preparing to catch a wave while surfing.",
+        "label": 0
+    },
+    {
+        "premise": "A young couple dances together in the middle of a street during a lively festival.",
+        "hypothesis": "The couple is silently reading books in a library.",
+        "label": 2
+    },
+    {
+        "premise": "A young couple dances together in the middle of a street during a lively festival.",
+        "hypothesis": "The couple is celebrating together at a street event.",
+        "label": 0
+    },
+    {
+        "premise": "A man with a paintbrush creates a mural on a brick wall in an urban alleyway.",
+        "hypothesis": "The man is baking cookies in his kitchen.",
+        "label": 2
+    },
+    {
+        "premise": "A man with a paintbrush creates a mural on a brick wall in an urban alleyway.",
+        "hypothesis": "The man is painting a colorful design on a public wall.",
+        "label": 0
+    },
+    {
+        "premise": "A group of children splashes in a shallow fountain on a hot summer day.",
+        "hypothesis": "The children are skiing down a snowy hill.",
+        "label": 2
+    },
+    {
+        "premise": "A group of children splashes in a shallow fountain on a hot summer day.",
+        "hypothesis": "The children are cooling off by playing in the water.",
+        "label": 0
+    },
+    {
+        "premise": "A woman in a chef's hat stirs a pot on a stove in a busy kitchen.",
+        "hypothesis": "The woman is planting flowers in her garden.",
+        "label": 2
+    },
+    {
+        "premise": "A woman in a chef's hat stirs a pot on a stove in a busy kitchen.",
+        "hypothesis": "The woman is preparing a meal in the kitchen.",
+        "label": 0
+    },
+    {
+        "premise": "A cyclist in a helmet rides along a trail surrounded by tall trees in the forest.",
+        "hypothesis": "The cyclist is swimming laps in an indoor pool.",
+        "label": 2
+    },
+    {
+        "premise": "A cyclist in a helmet rides along a trail surrounded by tall trees in the forest.",
+        "hypothesis": "The cyclist is enjoying a ride through the forest.",
+        "label": 0
+    },
+    {
+        "premise": "A cat sleeps peacefully on a windowsill while the sun streams through the glass.",
+        "hypothesis": "The cat is chasing a ball of yarn across the floor.",
+        "label": 2
+    },
+    {
+        "premise": "A cat sleeps peacefully on a windowsill while the sun streams through the glass.",
+        "hypothesis": "The cat is napping in a warm spot by the window.",
+        "label": 0
+    },
+    {
+        "premise": "A man jogs along a path in a city park, passing by a fountain and a row of benches.",
+        "hypothesis": "The man is sleeping on a couch at home.",
+        "label": 2
+    },
+    {
+        "premise": "A man jogs along a path in a city park, passing by a fountain and a row of benches.",
+        "hypothesis": "The man is enjoying a morning run through the park.",
+        "label": 0
+    },
+    {
+        "premise": "A little girl holds an ice cream cone while sitting on a bench at an amusement park.",
+        "hypothesis": "The girl is riding a roller coaster with her family.",
+        "label": 1
+    },
+    {
+        "premise": "A little girl holds an ice cream cone while sitting on a bench at an amusement park.",
+        "hypothesis": "The girl is enjoying a treat at the amusement park.",
+        "label": 0
+    },
+      {
+        "premise": "A group of hikers reaches the summit of a mountain, their silhouettes framed by a fiery orange sunset as they celebrate with raised hands, overlooking a vast valley scattered with tiny glowing city lights.",
+        "hypothesis": "Later, the same group of hikers, tired and weary, mistakenly descends into a dense forest shrouded in fog, encountering a deserted cabin with no clear path leading back to civilization.",
+        "label": 2
+    },
+    {
+        "premise": "A man dressed in a sharp tuxedo with a neatly folded pocket square stands under bright stage lights, gripping a microphone tightly while addressing an enthusiastic crowd in a grand concert hall.",
+        "hypothesis": "The same man, now in the same tuxedo but visibly distressed, hurriedly exits the concert hall into a dimly lit parking garage, speaking on his phone while searching for his missing briefcase.",
+        "label": 1
+    }
+]

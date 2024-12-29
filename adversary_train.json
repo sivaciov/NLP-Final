@@ -1,0 +1,502 @@
+[
+    {
+        "premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",
+        "hypothesis": "The boys are playing baseball.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.",
+        "hypothesis": "The man is painting a wall.",
+        "label": 1
+    },
+    {
+        "premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",
+        "hypothesis": "The child is standing near a river.",
+        "label": 2
+    },
+    {
+        "premise": "A young boy in a field of flowers carrying a ball.",
+        "hypothesis": "The boy is playing soccer in a park.",
+        "label": 1
+    },
+    {
+        "premise": "Families waiting in line at an amusement park for their turn to ride.",
+        "hypothesis": "People are standing in line at a grocery store.",
+        "label": 2
+    },
+    {
+        "premise": "Man in a black suit, white shirt, and black bowtie playing an instrument with the rest of his symphony surrounding him.",
+        "hypothesis": "A man is playing a trumpet solo on stage.",
+        "label": 1
+    },
+    {
+        "premise": "Two women having drinks and smoking cigarettes at the bar.",
+        "hypothesis": "Two women are jogging in the park.",
+        "label": 2
+    },
+    {
+        "premise": "At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",
+        "hypothesis": "A single man is in a Chinese dragon costume.",
+        "label": 0
+    },
+    {
+        "premise": "Two doctors perform surgery on a patient.",
+        "hypothesis": "Doctors are writing prescriptions for patients in their office.",
+        "label": 2
+    },
+    {
+        "premise": "A white dog with long hair jumps to catch a red and green toy.",
+        "hypothesis": "A dog is swimming in a lake to fetch a ball.",
+        "label": 2
+    },
+  {
+        "premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",
+        "hypothesis": "The boys are playing chess indoors.",
+        "label": 2
+    },
+    {
+        "premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.",
+        "hypothesis": "The man is admiring a blank white wall.",
+        "label": 2
+    },
+    {
+        "premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",
+        "hypothesis": "A child is running away from a helicopter on a sandy beach.",
+        "label": 2
+    },
+    {
+        "premise": "A young boy in a field of flowers carrying a ball.",
+        "hypothesis": "A young boy is painting a mural in an art class.",
+        "label": 2
+    },
+    {
+        "premise": "Families waiting in line at an amusement park for their turn to ride.",
+        "hypothesis": "Families are boarding a roller coaster at the amusement park.",
+        "label": 0
+    },
+    {
+        "premise": "Man in a black suit, white shirt, and black bowtie playing an instrument with the rest of his symphony surrounding him.",
+        "hypothesis": "A man is delivering a speech at a conference.",
+        "label": 2
+    },
+    {
+        "premise": "Two women having drinks and smoking cigarettes at the bar.",
+        "hypothesis": "Two women are at home reading books.",
+        "label": 2
+    },
+    {
+        "premise": "At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",
+        "hypothesis": "The event is taking place in a western-themed ranch setting.",
+        "label": 2
+    },
+    {
+        "premise": "Two doctors perform surgery on a patient.",
+        "hypothesis": "Two doctors are drinking coffee in the hospital cafeteria.",
+        "label": 2
+    },
+    {
+        "premise": "A white dog with long hair jumps to catch a red and green toy.",
+        "hypothesis": "A white dog is asleep under a tree.",
+        "label": 2
+    },
+    {
+        "premise": "A child is building a sandcastle by the ocean.",
+        "hypothesis": "A child is sledding down a snowy hill.",
+        "label": 2
+    },
+    {
+        "premise": "A large crowd gathers in front of a stage to watch a performance.",
+        "hypothesis": "A few people sit quietly in a library reading books.",
+        "label": 2
+    },
+    {
+        "premise": "A chef in a kitchen preparing a dish with various ingredients.",
+        "hypothesis": "A chef is taking a break in the dining area.",
+        "label": 1
+    },
+    {
+        "premise": "A group of hikers climbs a steep mountain trail under the midday sun.",
+        "hypothesis": "The hikers are swimming in a mountain lake.",
+        "label": 2
+    },
+    {
+        "premise": "A classroom full of students listening to a lecture.",
+        "hypothesis": "The students are playing basketball in the schoolyard.",
+        "label": 2
+    },
+    {
+        "premise": "A cat lounges on a windowsill basking in the sunlight.",
+        "hypothesis": "The cat is chasing a mouse in the garden.",
+        "label": 2
+    },
+    {
+        "premise": "A dog is fetching a stick thrown by its owner in a park.",
+        "hypothesis": "The dog is napping under a shady tree.",
+        "label": 1
+    },
+    {
+        "premise": "A man is running a marathon through the city streets.",
+        "hypothesis": "The man is relaxing at home on a couch.",
+        "label": 2
+    },
+    {
+        "premise": "A group of friends is playing cards around a table.",
+        "hypothesis": "The friends are watching a movie in a theater.",
+        "label": 2
+    },
+    {
+        "premise": "A soccer player kicks the ball towards the goal.",
+        "hypothesis": "The player is riding a bicycle on a country road.",
+        "label": 2
+    },
+    {
+        "premise": "A wedding ceremony is taking place in a beautiful garden.",
+        "hypothesis": "The couple is hiking through a forest.",
+        "label": 2
+    },
+    {
+        "premise": "A child is painting a picture with watercolors.",
+        "hypothesis": "The child is building a model airplane.",
+        "label": 2
+    },
+    {
+        "premise": "A musician is tuning a guitar on stage before a concert.",
+        "hypothesis": "The musician is playing the guitar during the performance.",
+        "label": 0
+    },
+    {
+        "premise": "A firefighter is rescuing a kitten from a tree.",
+        "hypothesis": "The firefighter is training in the fire station.",
+        "label": 1
+    },
+    {
+        "premise": "A surfer is riding a big wave on the ocean.",
+        "hypothesis": "The surfer is sitting on the beach watching the waves.",
+        "label": 2
+    },
+    {
+    "premise": "A surfer is riding a big wave on the ocean.",
+    "hypothesis": "A surfer contemplates whether the wave is safe before riding it.",
+    "label": 1
+  },
+  {
+    "premise": "A firefighter is rescuing a kitten from a tree.",
+    "hypothesis": "A firefighter chooses to leave the kitten because it climbs down safely.",
+    "label": 1
+  },
+  {
+    "premise": "A child is painting a picture with watercolors.",
+    "hypothesis": "The child is drawing with crayons instead of painting.",
+    "label": 2
+  },
+  {
+    "premise": "A wedding ceremony is taking place in a beautiful garden.",
+    "hypothesis": "The couple at the wedding is also preparing to take a group photo indoors.",
+    "label": 1
+  },
+  {
+    "premise": "A soccer player kicks the ball towards the goal.",
+    "hypothesis": "The player misses the goal entirely and the ball hits the side post.",
+    "label": 1
+  },
+  {
+    "premise": "A group of friends is playing cards around a table.",
+    "hypothesis": "The friends stop playing cards to enjoy a meal together.",
+    "label": 1
+  },
+  {
+    "premise": "A man is running a marathon through the city streets.",
+    "hypothesis": "The man stops running to help another participant who has fallen.",
+    "label": 1
+  },
+  {
+    "premise": "A dog is fetching a stick thrown by its owner in a park.",
+    "hypothesis": "The dog refuses to fetch the stick and chases a squirrel instead.",
+    "label": 2
+  },
+  {
+    "premise": "A classroom full of students listening to a lecture.",
+    "hypothesis": "Some students are not paying attention and are using their phones.",
+    "label": 1
+  },
+  {
+    "premise": "A group of hikers climbs a steep mountain trail under the midday sun.",
+    "hypothesis": "The hikers find shelter under a tree before continuing up the trail.",
+    "label": 1
+  },
+  {
+    "premise": "A cat lounges on a windowsill basking in the sunlight.",
+    "hypothesis": "The cat is startled by a bird outside and jumps off the windowsill.",
+    "label": 1
+  },
+  {
+    "premise": "A large crowd gathers in front of a stage to watch a performance.",
+    "hypothesis": "The crowd disperses after the performance ends and moves toward the exit.",
+    "label": 1
+  },
+  {
+    "premise": "A child is building a sandcastle by the ocean.",
+    "hypothesis": "The child decides to destroy the sandcastle and starts rebuilding it in another spot.",
+    "label": 1
+  },
+  {
+    "premise": "A young child marvels at the glistening water and rugged rocks while their dog digs into the wet sand nearby.",
+    "hypothesis": "The dog becomes interested in a nearby bird and runs away from the child.",
+    "label": 1
+  },
+  {
+    "premise": "Two women having drinks and smoking cigarettes at the bar.",
+    "hypothesis": "The women decide to leave the bar and head to a nearby café.",
+    "label": 1
+  },
+  {
+    "premise": "Man in a black suit, white shirt, and black bowtie playing an instrument with the rest of his symphony surrounding him.",
+    "hypothesis": "The man pauses playing to adjust the strings of his instrument.",
+    "label": 1
+  },
+  {
+    "premise": "Families waiting in line at an amusement park for their turn to ride.",
+    "hypothesis": "The ride breaks down and the families decide to go to another attraction.",
+    "label": 1
+  },
+  {
+    "premise": "A young boy in a field of flowers carrying a ball.",
+    "hypothesis": "The boy drops the ball and begins picking flowers for his mother.",
+    "label": 1
+  },
+  {
+    "premise": "Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",
+    "hypothesis": "The child hesitates, worried the plane might start moving unexpectedly.",
+    "label": 1
+  },
+  {
+    "premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.",
+    "hypothesis": "The man is inspecting the garage for any signs of damage.",
+    "label": 1
+  },
+  {
+    "premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",
+    "hypothesis": "The boys take off their helmets and exchange high-fives after the game.",
+    "label": 1
+  },
+  {
+    "premise": "A surfer is riding a big wave on the ocean.",
+    "hypothesis": "The surfer falls off the board into the ocean after a strong wave hits.",
+    "label": 1
+  },
+  {
+    "premise": "A firefighter is rescuing a kitten from a tree.",
+    "hypothesis": "The firefighter gets the kitten to safety but is surprised when another one is spotted nearby.",
+    "label": 1
+  },
+  {
+    "premise": "A musician is tuning a guitar on stage before a concert.",
+    "hypothesis": "The musician stops tuning to discuss the song order with the drummer.",
+    "label": 1
+  },
+  {
+    "premise": "A child enjoys the combination of flowing water and rocky landscapes with their dog in tow.",
+    "hypothesis": "The child slips on the rocks, and the dog rushes to help.",
+    "label": 1
+  },
+    {
+    "premise": "A group of friends is playing board games at a dining table.",
+    "hypothesis": "The friends abandon the game and start discussing their favorite movies.",
+    "label": 1
+  },
+  {
+    "premise": "A chef in a kitchen preparing a dish with various ingredients.",
+    "hypothesis": "The chef accidentally burns the dish and starts preparing a new one.",
+    "label": 1
+  },
+  {
+    "premise": "A large crowd gathers at a concert under the evening sky.",
+    "hypothesis": "The crowd disperses when the event is unexpectedly canceled.",
+    "label": 1
+  },
+  {
+    "premise": "A soccer player kicks the ball towards the goal.",
+    "hypothesis": "The ball veers off course and lands in the audience seating area.",
+    "label": 1
+  },
+  {
+    "premise": "A young girl is learning to ride a bicycle in the park.",
+    "hypothesis": "The girl decides to take a break and starts flying a kite instead.",
+    "label": 1
+  },
+  {
+    "premise": "A family is having a picnic in a grassy meadow surrounded by trees.",
+    "hypothesis": "The family packs up their picnic and decides to take a hike instead.",
+    "label": 1
+  },
+  {
+    "premise": "A young boy is playing with a toy train set on the living room floor.",
+    "hypothesis": "The boy abandons the train set to play with his dog.",
+    "label": 1
+  },
+  {
+    "premise": "A woman is painting a landscape on a canvas in her studio.",
+    "hypothesis": "The woman decides to switch to sculpting instead of painting.",
+    "label": 1
+  },
+  {
+    "premise": "A man is jogging along a quiet forest trail.",
+    "hypothesis": "The man stops jogging to admire a deer grazing nearby.",
+    "label": 1
+  },
+  {
+    "premise": "A group of students is studying together in the library.",
+    "hypothesis": "The students leave their books behind and head to the cafeteria for a snack.",
+    "label": 1
+  },
+  {
+    "premise": "A young couple is dancing together in a ballroom.",
+    "hypothesis": "The couple sits down and starts watching others dance instead.",
+    "label": 1
+  },
+  {
+    "premise": "A child is planting flowers in the garden with a small trowel.",
+    "hypothesis": "The child stops planting and begins watering the plants instead.",
+    "label": 1
+  },
+  {
+    "premise": "A fisherman is casting a line into the river from the shore.",
+    "hypothesis": "The fisherman decides to pack up and move to a different fishing spot.",
+    "label": 1
+  },
+  {
+    "premise": "A dog is chasing a frisbee in the park, leaping to catch it in mid-air.",
+    "hypothesis": "The dog loses interest in the frisbee and starts chasing a squirrel instead.",
+    "label": 1
+  },
+  {
+    "premise": "A group of friends is roasting marshmallows around a campfire.",
+    "hypothesis": "The friends put out the fire and start stargazing instead.",
+    "label": 1
+  },
+  {
+    "premise": "A musician is playing a violin on a busy street for passersby.",
+    "hypothesis": "The musician takes a break to tune the violin and count their earnings.",
+    "label": 1
+  },
+  {
+    "premise": "A cat is perched on a tree branch, watching birds in the distance.",
+    "hypothesis": "The cat climbs down the tree after losing interest in the birds.",
+    "label": 1
+  },
+  {
+    "premise": "A baker is decorating a three-tier cake with intricate frosting patterns.",
+    "hypothesis": "The baker abandons the cake and starts preparing pastries instead.",
+    "label": 1
+  },
+  {
+    "premise": "A cyclist is pedaling up a steep hill on a sunny day.",
+    "hypothesis": "The cyclist stops to take a break and drink some water.",
+    "label": 1
+  },
+  {
+    "premise": "A dog is swimming across a small lake to fetch a floating stick.",
+    "hypothesis": "The dog turns back halfway and swims to the shore instead.",
+    "label": 1
+  },
+  {
+    "premise": "A gardener is trimming the hedges in a large backyard.",
+    "hypothesis": "The gardener leaves the hedges unfinished and starts mowing the lawn.",
+    "label": 1
+  },
+  {
+    "premise": "A child is learning to play the piano during a music lesson.",
+    "hypothesis": "The child takes a break from the piano to play with toys instead.",
+    "label": 1
+  },
+  {
+    "premise": "A family is setting up a tent in a campsite surrounded by trees.",
+    "hypothesis": "The family decides to sleep under the stars instead of using the tent.",
+    "label": 1
+  },
+  {
+    "premise": "A photographer is capturing images of a sunset over the ocean.",
+    "hypothesis": "The photographer switches to taking pictures of the waves crashing on the shore.",
+    "label": 1
+  },
+    {
+    "premise": "A chef is meticulously plating a gourmet dish in a high-end kitchen.",
+    "hypothesis": "The chef decides to serve the dish without plating it properly.",
+    "label": 1
+  },
+  {
+    "premise": "A group of hikers pauses at the summit of a mountain to take pictures of the breathtaking view.",
+    "hypothesis": "The hikers are still struggling to climb to the summit.",
+    "label": 2
+  },
+  {
+    "premise": "A young artist is sketching a detailed portrait of a man in a hat.",
+    "hypothesis": "The artist decides to sketch a scenic landscape instead.",
+    "label": 1
+  },
+  {
+    "premise": "A man in a business suit is giving a presentation in a conference room.",
+    "hypothesis": "The man is sitting in the audience taking notes instead of presenting.",
+    "label": 2
+  },
+  {
+    "premise": "A child is blowing bubbles in the backyard while their dog tries to catch them.",
+    "hypothesis": "The dog ignores the bubbles and chases a bird instead.",
+    "label": 1
+  },
+  {
+    "premise": "A woman is jogging on a treadmill at the gym.",
+    "hypothesis": "The woman is sitting on the treadmill reading a magazine.",
+    "label": 2
+  },
+  {
+    "premise": "A group of friends is grilling burgers at a barbecue in a park.",
+    "hypothesis": "The friends are eating pizza in a restaurant instead of barbecuing.",
+    "label": 2
+  },
+  {
+    "premise": "A teacher is writing an equation on the chalkboard in front of a class.",
+    "hypothesis": "The teacher is erasing the equation while the students copy it.",
+    "label": 1
+  },
+  {
+    "premise": "A child is coloring in a picture with crayons at the kitchen table.",
+    "hypothesis": "The child decides to use watercolors instead of crayons.",
+    "label": 1
+  },
+  {
+    "premise": "A musician is performing on stage with an acoustic guitar.",
+    "hypothesis": "The musician is performing with a grand piano instead of a guitar.",
+    "label": 2
+  },
+  {
+    "premise": "A woman is practicing yoga in a serene outdoor setting.",
+    "hypothesis": "The woman is meditating in the same serene environment.",
+    "label": 1
+  },
+  {
+    "premise": "A dog is running through a field of flowers chasing a ball.",
+    "hypothesis": "The dog is lying down and chewing on the ball.",
+    "label": 1
+  },
+  {
+    "premise": "A fisherman is casting his line into a quiet lake at sunset.",
+    "hypothesis": "The fisherman is packing up his gear to leave the lake.",
+    "label": 1
+  },
+  {
+    "premise": "A crowd gathers in a plaza to watch a street performer juggling flaming torches.",
+    "hypothesis": "The street performer is juggling colorful balls instead of torches.",
+    "label": 2
+  },
+  {
+    "premise": "A baker is kneading dough on a wooden counter in a bakery.",
+    "hypothesis": "The baker is decorating cupcakes instead of kneading dough.",
+    "label": 2
+  },
+  {
+    "premise": "A group of teenagers is playing basketball on an outdoor court.",
+    "hypothesis": "The teenagers are playing soccer on a nearby field.",
+    "label": 2
+  }
+]
