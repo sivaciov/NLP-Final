@@ -68,6 +68,10 @@ python train_with_adversarial.py --dataset <dataset_name> --adversarial_file <pa
 ## Example Output
 The following heatmaps provide visual insights into model errors:
 
+![Aggregated Error Heatmap](https://github.com/sivaciov/NLP-Final/blob/main/aggregated_error_heatmap.png?raw=true)
+
+![Consolidated Error Heatmap](https://github.com/sivaciov/NLP-Final/blob/main/consolidated_error_heatmap.png?raw=true)
+
 - `aggregated_error_heatmap.png`: Aggregates error patterns across the dataset.
 - `consolidated_error_heatmap.png`: Consolidates error patterns for adversarial and challenge sets.
 
