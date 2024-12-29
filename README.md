@@ -66,6 +66,11 @@ python train_with_adversarial.py --dataset <dataset_name> --adversarial_file <pa
 ```
 
 ## Example Output
+The following heatmaps provide visual insights into model errors:
+
+- `aggregated_error_heatmap.png`: Aggregates error patterns across the dataset.
+- `consolidated_error_heatmap.png`: Consolidates error patterns for adversarial and challenge sets.
+
 Sample evaluation output:
 ```
 Baseline Accuracy: 85.4%
